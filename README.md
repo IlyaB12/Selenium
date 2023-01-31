@@ -1,1 +1,1 @@
-# Selenium
+Курс по Git
